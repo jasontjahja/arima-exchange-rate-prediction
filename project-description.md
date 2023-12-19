@@ -650,7 +650,8 @@ print(trend_conclusion)
 
 ```
 
-![image](https://github.com/jasontjahja/arima-exchange-rate-prediction/assets/144135838/7f11b54c-8ab4-4eb2-a146-316283d80b27)
+![image](https://github.com/jasontjahja/arima-exchange-rate-prediction/assets/144135838/fb075f89-2898-4f5b-a3a6-aab8cd305749)
+
 
 ```python
 # Extract the first and last predicted prices
@@ -669,8 +670,8 @@ else:
 print(trend_conclusion)
 
 ```
+![image](https://github.com/jasontjahja/arima-exchange-rate-prediction/assets/144135838/3905be5c-6722-43e5-8be0-1e7926cc2f5b)
 
-![image](https://github.com/jasontjahja/arima-exchange-rate-prediction/assets/144135838/743141bb-d1d3-43f0-b227-5e6626fcffcb)
 
 Based on the first output from the trend conclusion code, it is stated how USD IDR move towards downtrend. A user that reads the conclusion can follow the trend conclusion in order to protect their USD-IDR asset by selling it and convert it to the pair currency. 
 
